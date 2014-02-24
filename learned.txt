@@ -1,1 +1,2 @@
-I learned how to use git.
+I learned how to use git. Now I am making tests.
+
