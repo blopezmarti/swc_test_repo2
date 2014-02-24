@@ -1,2 +1,1 @@
-I learned how to use git. Now I am making tests. And tests.
-
+I learned how to use git. It is very useful.Now I am making tests. And tests.
